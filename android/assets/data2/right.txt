@@ -1,0 +1,33 @@
+walking right.png
+size: 225, 92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walkingfront1
+  rotate: false
+  xy: 1, 1
+  size: 43, 89
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+walkingright
+  rotate: false
+  xy: 46, 1
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+walkingright2
+  rotate: false
+  xy: 119, 1
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+walkingright3
+  rotate: false
+  xy: 181, 1
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1

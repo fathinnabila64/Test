@@ -1,0 +1,33 @@
+all2.png
+size: 316, 316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back2
+  rotate: false
+  xy: 1, 1
+  size: 179, 91
+  orig: 180, 180
+  offset: 1, 88
+  index: -1
+front2
+  rotate: false
+  xy: 182, 1
+  size: 133, 91
+  orig: 135, 135
+  offset: 1, 43
+  index: -1
+left
+  rotate: false
+  xy: 1, 94
+  size: 222, 92
+  orig: 222, 92
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 1, 188
+  size: 225, 92
+  orig: 225, 92
+  offset: 0, 0
+  index: -1

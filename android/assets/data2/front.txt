@@ -1,0 +1,26 @@
+front.png
+size: 45, 273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+waklingfront3
+  rotate: false
+  xy: 1, 1
+  size: 43, 89
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+walkingfront1
+  rotate: false
+  xy: 1, 92
+  size: 43, 89
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+walkingfront2
+  rotate: false
+  xy: 1, 183
+  size: 43, 89
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
